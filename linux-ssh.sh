@@ -6,7 +6,7 @@ set -e
 
 # Predefined environment variables
 LINUX_USER_PASSWORD="krish"
-NGROK_AUTH_TOKEN="2zMbWk0BwmMEKuXaxYemxLxyVDN_6hrjoNum3Zj81z2usQeWC"
+NGROK_AUTH_TOKEN="2zNlquLACHLoei88LXzYpeLFxaC_2EUk9nZweHVaFM4iGbG3r"
 LINUX_USERNAME="krish"
 LINUX_MACHINE_NAME="krish"
 
